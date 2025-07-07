@@ -17,9 +17,9 @@ A companion mobile app allows users or therapists to control sessions, monitor t
 COHMET features a compact wooden board with 9 wells and color-coded pegs, making it simple, durable, and user-friendly. Wells are illuminated for visual cues, and components are engineered for intuitive interaction. The system is lightweight and portable, suitable for clinics, therapy centers, or at-home use.
 
 ## **ELECTRONICS STRUCTURE**
-| Final PCB | Final Schematics |
+| Final Schematics | Final PCB |
 | :------: | :------: |
-| ![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/single%20PCB_pcb.png?raw=true) | ![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/single%20PCB_schem.png?raw=true) |
+| ![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/single%20PCB_schem.png?raw=true) | ![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/single%20PCB_pcb.png?raw=true) |
 
 ## **MECHANICAL STRUCTURE**
 | Main Structures | Structural Assembly |
