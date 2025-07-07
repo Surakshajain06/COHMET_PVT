@@ -66,8 +66,4 @@ COHMET features a compact wooden board with 9 wells and color-coded pegs, making
 
 ## Behind the development
 
-## ⚠️ Disclaimer
-COHMET is a prototype currently under development and intended for research and educational purposes only. Features, design, and performance are subject to change. The developers are not responsible for any misuse, damage, or injury resulting from the use of this system. Certain technical components and mechanisms are patent-pending and may not be reused or replicated without permission.
-
-
 ![Static Badge](https://img.shields.io/badge/Made%20With%20Love%20By-SHREENANDAN%20SAHU,%20KS%20SURAKSHA%20JAIN%20&%20DR.%20CASSANDRA%20SOLOMONS-eb5e28?style=flat-square) ![Static Badge](https://img.shields.io/badge/Designed%20Developed%20&%20Made%20In-Dept%20of%20BIOENGINEERING%20CMC%20Vellore,%20INDIA-a53860?style=flat-square) 
