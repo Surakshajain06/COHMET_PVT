@@ -1,5 +1,5 @@
 
-![Institute](https://img.shields.io/badge/Institute-CMC%20Vellore-344e41?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Rehabilitation%20Device-023e8a?style=flat-square) ![Category](https://img.shields.io/badge/Category-Biomedical%20Product-f77f00?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-d62828?style=flat-square)](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr) [![Static Badge](https://img.shields.io/badge/Website-Visit-ff4d6d?style=flat-square)](https://cohmet-cmc.netlify.app/)
+![Institute](https://img.shields.io/badge/Institute-CMC%20Vellore-2a9d8f?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Rehabilitation%20Device-f77f00?style=flat-square) ![Category](https://img.shields.io/badge/Category-Biomedical%20Product-4361ee?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-a53860?style=flat-square)](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr) [![Static Badge](https://img.shields.io/badge/Website-Visit-758bfd?style=flat-square)](https://cohmet-cmc.netlify.app/)
 
 # **CMC COHMET** | Cognitive and Hand Motor Enhancement Trainer
 
