@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no"/>
+  <title>CMC Cohmet</title>
+  <link rel="shortcut icon" href="icon.png" type="image/x-icon">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html, body {
+      width: 100%;
+      height: 100%;
+      font-family: "Oswald", sans-serif;
+      color: #ffffff;
+      overflow: auto;
+      scroll-behavior: smooth;
+    }
+
+    body {
+      background: #000;
+    }
+
+    section.hero {
+      background: url('hero-image.jpg') no-repeat center center fixed;
+      background-size: cover;
+      height: 100vh;
+      width: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      padding: 3rem 2rem;
+    }
+
+    .hero-content {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2rem;
+      width: 100%;
+      max-width: 800px;
+    }
+
+    .logo-image {
+      width: 250px;
+      max-width: 80%;
+    }
+
+    .description {
+      font-size: 1.1rem;
+      text-align: justify;
+      max-width: 700px;
+      background-color: rgba(2, 17, 34, 0.8);
+      padding: 1.8rem;
+      border-radius: 12px;
+    }
+
+    .button-group {
+      font-family: "Oswald", sans-serif;
+      display: flex;
+      gap: 1.5rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .button-group a,
+    .button-group button {
+      font-family: "Oswald", sans-serif;
+      background-color: #FFC300;
+      color: #001D3D;
+      padding: 1rem 2rem;
+      border: none;
+      border-radius: 8px;
+      text-decoration: none;
+      font-size: 1rem;
+      font-weight: bold;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+
+    .button-group a:hover,
+    .button-group button:hover {
+      background-color: #e6b800;
+    }
+
+    .made-in {
+      font-size: 2rem;
+      color: #ffffff;
+    }
+
+    .made-in .highlight {
+      font-weight: bold;
+      background: linear-gradient(to top right, #ff9933, #ffffff, #138808);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    section.rules {
+      width: 100%;
+      background-color: #021122;
+      padding: 3rem 1rem;
+      text-align: center;
+    }
+
+    .rules-image {
+      font-weight: 400;
+      width: 90%;
+      max-width: 800px;
+    }
+
+    section.results {
+      width: 100%;
+      background-color: #001d3d;
+      padding: 3rem 1rem;
+      text-align: center;
+    }
+
+    .results iframe {
+      width: 95%;
+      max-width: 1000px;
+      height: 600px;
+      border: none;
+      border-radius: 8px;
+    }
+
+    #patient {
+      margin-bottom: 2rem;
+    }
+
+    footer {
+      width: 100%;
+      text-align: center;
+      color: #000000;
+      font-size: 0.8rem;
+      background-color: #e6b800;
+      padding: 0.5rem 0;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="hero-content">
+      <img src="logo.png" alt="CMC COHMET Logo" class="logo-image" />
+
+      <div class="description">
+        <h3 style="text-align: center;">Welcome to CMC COHMET</h3>
+        <br>
+        <p>COHMET (<b>CO</b>gnitive and <b>H</b>and <b>M</b>otor <b>E</b>nhancement <b>T</b>rainer) is a rehabilitation device designed to improve <b>HAND</b> coordination and <b>COGNITIVE</b> function through multiple interactive light-based game, with real-time feedback and app connectivity.</p>
+      </div>
+
+      <div class="button-group">
+        <a href="CMC_COHMET.apk">Download App</a>
+        <a href="brochure.pdf" target="_blank">Brochure</a>
+        <a href="https://youtu.be/5ILCvA9i6UQ" target="_blank">Demo Video</a>
+        <button onclick="document.getElementById('results').scrollIntoView();">Results</button>
+      </div>
+
+      <div class="made-in">
+        Made in <span class="highlight">INDIA</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Rules Section -->
+  <section class="rules">
+    <img src="rules.png" alt="Game Rules" class="rules-image" />
+  </section>
+
+  <!-- Results Section -->
+  <section class="results" id="results">
+    <h2 id="patient">Patient Records</h2>
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRzE1sqxyREvl61b_y-SRx7HNge7-i7ONYMfxyrvKl1FaalyN5O5s2bQgtQwGeUhRwayUHSG03FrHTy/pubhtml?widget=true&amp;headers=false"></iframe>
+  </section>
+
+  <footer>
+    &copy; 2025 CMC Cohmet. All rights reserved.<br>
+    Made with ❤️ by Suraksha and Shreenandan under Dr. Cassandra Ma'am.
+  </footer>
+
+</body>
+</html>
