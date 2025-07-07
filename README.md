@@ -31,7 +31,7 @@ COHMET features a compact wooden board with 9 wells and color-coded pegs, making
 ## ELECTRONICS STRUCTURE
 | Final PCB | Final Schematics |
 | :------: | :------: |
-| ![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/single%20PCB_pcb?raw=true) | ![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/single%20PCB_schem.png?raw=true) |
+| ![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/single%20PCB_pcb.png?raw=true) | ![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/single%20PCB_schem.png?raw=true) |
 
 ## 🔧 Future work
  
@@ -41,10 +41,10 @@ COHMET features a compact wooden board with 9 wells and color-coded pegs, making
 - Add audio prompts in three languages (English, Tamil, Hindi) with support for customized voice or sound options.
 - Enable customizable timer settings for each well to personalize training intensity and duration.
 -Introduce varied game modes including:
-        - Memory game for cognitive recall
-        - Fast-flashing LEDs for reaction training
-        - Keeing different levels of the game based on difficulty level 
-        
+        -- Memory game for cognitive recall
+        -- Fast-flashing LEDs for reaction training
+        -- Keeing different levels of the game based on difficulty level 
+
 ## Behind the development
 
 ## ⚠️ Disclaimer
