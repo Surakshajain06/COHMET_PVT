@@ -1,7 +1,8 @@
 
 ![Institute](https://img.shields.io/badge/Institute-CMC%20Vellore-2a9d8f?style=flat-square) ![Project Type](https://img.shields.io/badge/Project%20Type-Rehabilitation%20Device-f77f00?style=flat-square) ![Category](https://img.shields.io/badge/Category-Biomedical%20Product-4361ee?style=flat-square) [![Demo Video](https://img.shields.io/badge/Demo-Youtube-a53860?style=flat-square)](https://youtu.be/8x4jnvdGgfg?si=aJdlGi542GCe0jYr) [![Static Badge](https://img.shields.io/badge/Website-Visit-758bfd?style=flat-square)](https://cohmet-cmc.netlify.app/)
 
-# **CMC COHMET** | ***( Cognitive and Hand Motor Enhancement Trainer )***
+# **CMC COHMET**
+## ***( Cognitive and Hand Motor Enhancement Trainer )***
 
 COHMET (Cognitive and Hand Motor Enhancement Trainer) is a smart, interactive pegboard designed to aid hand coordination and cognitive development—especially in stroke rehabilitation settings. It combines visual guidance through LED-lit wells, fixed-colored pegs, and real-time feedback to enhance user engagement. The system is Bluetooth-enabled, with app-based control for tracking progress, timing, and customizable audio prompts.
 
@@ -16,7 +17,7 @@ A companion mobile app allows users or therapists to control sessions, monitor t
 ## 📦 **Physical Design Overview**
 COHMET features a compact wooden board with 9 wells and color-coded pegs, making it simple, durable, and user-friendly. Wells are illuminated for visual cues, and components are engineered for intuitive interaction. The system is lightweight and portable, suitable for clinics, therapy centers, or at-home use.
 
-## ⚠️ Disclaimer
+#### ⚠️ Disclaimer
 *COHMET is a prototype currently under development and intended for research and educational purposes only. Features, design, and performance are subject to change. The developers are not responsible for any misuse, damage, or injury resulting from the use of this system. Certain technical components and mechanisms are patent-pending and may not be reused or replicated without permission.*
 
 ## **ELECTRONICS STRUCTURE**
