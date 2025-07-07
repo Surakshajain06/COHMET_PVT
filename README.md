@@ -16,6 +16,9 @@ A companion mobile app allows users or therapists to control sessions, monitor t
 ## 📦 **Physical Design Overview**
 COHMET features a compact wooden board with 9 wells and color-coded pegs, making it simple, durable, and user-friendly. Wells are illuminated for visual cues, and components are engineered for intuitive interaction. The system is lightweight and portable, suitable for clinics, therapy centers, or at-home use.
 
+## ⚠️ Disclaimer
+*COHMET is a prototype currently under development and intended for research and educational purposes only. Features, design, and performance are subject to change. The developers are not responsible for any misuse, damage, or injury resulting from the use of this system. Certain technical components and mechanisms are patent-pending and may not be reused or replicated without permission.*
+
 ## **ELECTRONICS STRUCTURE**
 | Final Schematics | Final PCB |
 | :------: | :------: |
@@ -35,15 +38,27 @@ COHMET features a compact wooden board with 9 wells and color-coded pegs, making
 
 ## 🔧 Future work
  
-- Implement a solution to minimize heating in the LED voltage regulator to enhance safety and component life.
-- Design a more compact and lightweight version of the device for better portability and ease of use.
-- Explore options for cost reduction without compromising on performance or build quality.
-- Add audio prompts in three languages (English, Tamil, Hindi) with support for customized voice or sound options.
-- Enable customizable timer settings for each well to personalize training intensity and duration.
--Introduce varied game modes including:
-        -- Memory game for cognitive recall
-        -- Fast-flashing LEDs for reaction training
-        -- Keeing different levels of the game based on difficulty level 
+### 🔧 Proposed Improvements & Game Features
+
+| **Category**              | **Feature / Game Mode**                                          | **Description**                                                                                      |
+|--------------------------|-------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| ✅ **Hardware Optimization** | Minimize LED Voltage Regulator Heating                             | Improve power efficiency using low-dropout or switching regulators to reduce heat.                   |
+|                          | Compact & Lightweight Design                                     | Use smaller PCB, lighter enclosure, and optimized layout for portability.                            |
+|                          | Cost Optimization                                                | Use cost-effective components without reducing performance or safety.                               |
+| 🔊 **Audio Functionality**  | Multilingual Audio Prompts (English, Tamil, Hindi)                  | Add voice instructions in three languages for accessibility.                                         |
+|                          | Custom Voice/Sound Support                                       | Allow uploading custom audio files for personalized interaction.                                     |
+| ⏲️ **Training Flexibility** | Customizable Timer per Well                                     | Set individual timing for each well to adapt training difficulty.                                    |
+| 🎮 **Game Modes**          | **Memory Recall Game**                                           | Flash a sequence of colors, and player replicates it using pegs.                                    |
+|                          | **Reaction Time Game**                                           | Random fast-flashing wells; player responds quickly to correct one.                                 |
+|                          | **Color-Match Training (Current)**                               | Match colored peg with correct well; error shown with red flash.                                     |
+|                          | **Sequence Training Game**                                       | Player must follow a specific color sequence given by audio or lights.                              |
+|                          | **Timer Challenge Mode**                                         | Complete all placements within a limited time.                                                       |
+|                          | **Obstacle Mode**                                                | Include false signals or distractions to improve focus and cognition.                               |
+|                          | **Progressive Levels**                                           | Increase difficulty with faster timing, more colors, and advanced logic.                             |
+| 🧠 **Cognitive/Physical Goals** | Focus Training                                                | Single-color attention game with distractions to improve sustained focus.                           |
+|                          | Left-Right Alternation Game                                     | Alternate peg placements to engage both hands and aid rehabilitation.                               |
+| 📱 **User Control**         | Mobile App-Based Control & Sync                                | Set modes and track results via Bluetooth-connected mobile app.                                      |
+
 
 ## Behind the development
 
