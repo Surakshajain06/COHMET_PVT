@@ -4,9 +4,9 @@
 # **CMC COHMET** | Cognitive and Hand Motor Enhancement Trainer
 
 COHMET (Cognitive and Hand Motor Enhancement Trainer) is a smart, interactive pegboard designed to aid hand coordination and cognitive development—especially in stroke rehabilitation settings. It combines visual guidance through LED-lit wells, fixed-colored pegs, and real-time feedback to enhance user engagement. The system is Bluetooth-enabled, with app-based control for tracking progress, timing, and customizable audio prompts.
----
+
 ![Hero Image](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/COHMET-Thumbnail.jpg?raw=true)
----
+
 ## 🎯 Functionality overview
 COHMET offers guided color-matching tasks that help improve motor skills and cognitive responses.
 Real-time peg placement detection ensures accurate activity tracking and user feedback.
