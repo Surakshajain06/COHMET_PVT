@@ -7,31 +7,31 @@ COHMET (Cognitive and Hand Motor Enhancement Trainer) is a smart, interactive pe
 
 ![Hero Image](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/COHMET-Thumbnail.jpg?raw=true)
 
-## 🎯 Functionality overview
+## 🎯 **Functionality overview**
 COHMET offers guided color-matching tasks that help improve motor skills and cognitive responses. Real-time peg placement detection ensures accurate activity tracking and user feedback. Designed with future expandability in mind, including data sync, remote monitoring, and multilingual support.
 
-## 📱 App integration and features
+## 📱 **App integration and features**
 A companion mobile app allows users or therapists to control sessions, monitor timing, and choose languages (English, Tamil, Hindi). Audio prompts, user tracking, and session customization are planned features under active development. COHMET is built to support scalable digital integration for remote therapy use.
 
-## 📦 Physical Design Overview
+## 📦 **Physical Design Overview**
 COHMET features a compact wooden board with 9 wells and color-coded pegs, making it simple, durable, and user-friendly. Wells are illuminated for visual cues, and components are engineered for intuitive interaction. The system is lightweight and portable, suitable for clinics, therapy centers, or at-home use.
 
-## APP STRUCTURE
-![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/APP.png?raw=true)
+## **ELECTRONICS STRUCTURE**
+| Final PCB | Final Schematics |
+| :------: | :------: |
+| ![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/single%20PCB_pcb.png?raw=true) | ![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/single%20PCB_schem.png?raw=true) |
 
-## WEBSITE STRUCTURE
-![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/Website.png?raw=true)
-
-## MECHANICAL STRUCTURE
-
+## **MECHANICAL STRUCTURE**
 | Main Structures | Structural Assembly |
 | :------: | :------: |
 | ![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/COHMET%20PARTS.png?raw=true) | ![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/main%20structure.gif?raw=true) |
 
-## ELECTRONICS STRUCTURE
-| Final PCB | Final Schematics |
-| :------: | :------: |
-| ![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/single%20PCB_pcb.png?raw=true) | ![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/single%20PCB_schem.png?raw=true) |
+## **WEBSITE STRUCTURE**
+![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/Website.png?raw=true)
+
+## **APP STRUCTURE**
+![APP](https://github.com/Surakshajain06/COHMET_PVT/blob/main/COHMET%20DOCUMENTATION/PICS/APP.png?raw=true)
+
 
 ## 🔧 Future work
  
